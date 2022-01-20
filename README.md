@@ -7,12 +7,9 @@ My name is Shivangi Sinha.
 
 Here are some ideas to get you started:
 
--->
 
 - 🔭 I’m currently working on a dozen different things
 - 🌱 I’m currently learning about Blockchain & DApps
-
-<!-- 
 - 💬 Ask me about anything 
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
